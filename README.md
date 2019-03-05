@@ -1,8 +1,3 @@
-Title         : Stock Analysis
-Author        : Liu
-Logo          : True
-
-[TITLE]
 
 # Data Resources
 
