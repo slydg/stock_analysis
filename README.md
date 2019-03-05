@@ -4,7 +4,7 @@
 All the data used in this project is provided by tushare.pro, which is an open resource dataset for Chinese stock market.
  A token is needed to use all the data used in this project. It can be gotten by registering in [tushare.pro](https://tushare.pro/) 
 
-* Read the [introduction of tushare](https://tushare.pro/document/1) for more information about tusahre.
+* Read the [introduction of tushare](https://tushare.pro/document/1) for more information about tushare.
 * ./get_data.py is used to get the financial indicators (the second and third quarter report of 2018) and the price data (from the day when the second quarter report was published to today) for all (possible) listed companies in China  
 * `./get_data_pre.py is used to get all daily basic market information of each stock(from the day when the second quarter report was published to today).
 
